@@ -3,7 +3,7 @@
 <!--content -->
 <div class="box box-solid box-success">
   <div class="box-header with-border">
-    <h3 class="box-title"><i class="fa fa-plus"></i> <i class="fa fa-globe"></i> Tambah Agama</h3>
+    <h3 class="box-title"><i class="fa fa-plus"></i> <i class="fa fa-globe"></i> Tambah Agama </h3>
     <div class="box-tools pull-right">
     </div><!-- /.box-tools -->
   </div><!-- /.box-header -->
